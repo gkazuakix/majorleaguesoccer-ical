@@ -2073,12 +2073,12 @@ DESCRIPTION:MLS - Regular Season\n\nLA Galaxy vs. Los Angeles FC
 LOCATION:Dignity Health Sports Park\, Carson\, CA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nashville SC vs. Atlanta United
+SUMMARY:Nashville SC* vs. Atlanta United
 DTSTART:20260718T001000Z
 DTEND:20260718T021000Z
 DTSTAMP:20260718T001000Z
 UID:MLS-MAT-0009HC
-DESCRIPTION:MLS - Regular Season\n\nNashville SC vs. Atlanta United
+DESCRIPTION:MLS - Regular Season\n\nNashville SC 1 - Atlanta United 0
 LOCATION:GEODIS Park\, Nashville\, TN
 END:VEVENT
 BEGIN:VEVENT
