@@ -5351,12 +5351,12 @@ DESCRIPTION:CONCACAF Nations League\n\nCuraçao 0 - Panama 0
 LOCATION:Stadion Ergilio Hato\, Willemstad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Guatemala vs. Canada
+SUMMARY:Guatemala vs. Canada*
 DTSTART:20261114T020000Z
 DTEND:20261114T040000Z
 DTSTAMP:20261114T020000Z
 UID:MLS-MAT-000ANV
-DESCRIPTION:CONCACAF Nations League\n\nGuatemala vs. Canada
+DESCRIPTION:CONCACAF Nations League\n\nGuatemala 2 - Canada 3
 LOCATION:Estadio Manuel Felipe Carrera\, Guatemala City
 END:VEVENT
 BEGIN:VEVENT
